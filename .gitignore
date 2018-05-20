@@ -1,3 +1,5 @@
 env/
+secrets.conf
 *.pyc
 refresh_token
+

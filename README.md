@@ -22,6 +22,14 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
+## Create Client Secrets
+
+Use the repo at https://github.com/spotify/web-api-auth-examples to create client tokens
+
+# need to use authorization_code repo
+# need to add scopes for playlist-modify-private playlist-modify-public
+# need to insert client token and secret 
+
 ### Usage
 
 ```
