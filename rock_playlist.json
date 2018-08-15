@@ -1,0 +1,638 @@
+[
+  {
+    "song": "Stranglehold",
+    "artist": "Ted Nugent"
+  },
+  {
+    "song": "Just One Fix",
+    "artist": "Ministry"
+  },
+  {
+    "song": "Sweet Home Alabama",
+    "artist": "Lynyrd Skynyrd"
+  },
+  {
+    "song": "Bad To The Bone",
+    "artist": "George Thorogood & The Destroyers"
+  },
+  {
+    "song": "Magic Carpet Ride",
+    "artist": "Steppenwolf"
+  },
+  {
+    "song": "Sweet Emotion",
+    "artist": "Aerosmith"
+  },
+  {
+    "song": "Born To Be Wild",
+    "artist": "Steppenwolf"
+  },
+  {
+    "song": "Back In Black",
+    "artist": "AC/DC"
+  },
+  {
+    "song": "Thunderstruck",
+    "artist": "AC/DC"
+  },
+  {
+    "song": "You Shook Me All Night Long",
+    "artist": "AC/DC"
+  },
+  {
+    "song": "Highway to Hell",
+    "artist": "AC/DC"
+  },
+  {
+    "song": "Crazy Train",
+    "artist": "Ozzy Osbourne"
+  },
+  {
+    "song": "Enter Sandman",
+    "artist": "Metallica"
+  },
+  {
+    "song": "Nothing Else Matters",
+    "artist": "Metallica"
+  },
+  {
+    "song": "The Unforgiven",
+    "artist": "Metallica"
+  },
+  {
+    "song": "Cum on Feel the Noize",
+    "artist": "Quiet Riot"
+  },
+  {
+    "song": "Cowboys From Hell",
+    "artist": "Pantera"
+  },
+  {
+    "song": "Walk",
+    "artist": "Pantera"
+  },
+  {
+    "song": "Back In Black",
+    "artist": "AC/DC"
+  },
+  {
+    "song": "Thunderstruck",
+    "artist": "AC/DC"
+  },
+  {
+    "song": "You Shook Me All Night Long",
+    "artist": "AC/DC"
+  },
+  {
+    "song": "Highway to Hell",
+    "artist": "AC/DC"
+  },
+  {
+    "song": "Crazy Train",
+    "artist": "Ozzy Osbourne"
+  },
+  {
+    "song": "Enter Sandman",
+    "artist": "Metallica"
+  },
+  {
+    "song": "Nothing Else Matters",
+    "artist": "Metallica"
+  },
+  {
+    "song": "The Unforgiven",
+    "artist": "Metallica"
+  },
+  {
+    "song": "Cum on Feel the Noize",
+    "artist": "Quiet Riot"
+  },
+  {
+    "song": "Cowboys From Hell",
+    "artist": "Pantera"
+  },
+  {
+    "song": "Walk",
+    "artist": "Pantera"
+  },
+  {
+    "song": "Bodies",
+    "artist": "Drowning Pool"
+  },
+  {
+    "song": "Dragula",
+    "artist": "Rob Zombie"
+  },
+  {
+    "song": "Fortunate Son",
+    "artist": "Creedence Clearwater Revival"
+  },
+  {
+    "song": "Roadhouse Blues",
+    "artist": "The Doors"
+  },
+  {
+    "song": "Every Rose Has Its Thorn (Remastered 2003)",
+    "artist": "Poison"
+  },
+  {
+    "song": "Landslide",
+    "artist": "Fleetwood Mac"
+  },
+  {
+    "song": "Man On The Silver Mountain",
+    "artist": "Rainbow"
+  },
+  {
+    "song": "Rhiannon",
+    "artist": "Fleetwood Mac"
+  },
+  {
+    "song": "All Right Now",
+    "artist": "Free"
+  },
+  {
+    "song": "I Believe In A Thing Called Love",
+    "artist": "The Darkness"
+  },
+  {
+    "song": "Unholy Confessions",
+    "artist": "Avenged Sevenfold"
+  },
+  {
+    "song": "Bat Country",
+    "artist": "Avenged Sevenfold"
+  },
+  {
+    "song": "The Impression That I Get",
+    "artist": "The Mighty Mighty Bosstones"
+  },
+  {
+    "song": "One Headlight",
+    "artist": "The Wallflowers"
+  },
+  {
+    "song": "Your Love",
+    "artist": "The Outfield"
+  },
+  {
+    "song": "Inside Out",
+    "artist": "Eve 6"
+  },
+  {
+    "song": "Gimme Shelter",
+    "artist": "The Rolling Stones"
+  },
+  {
+    "song": "Man On The Silver Mountain",
+    "artist": "Rainbow"
+  },
+  {
+    "song": "Rhiannon",
+    "artist": "Fleetwood Mac"
+  },
+  {
+    "song": "All Right Now",
+    "artist": "Free"
+  },
+  {
+    "song": "I Believe In A Thing Called Love",
+    "artist": "The Darkness"
+  },
+  {
+    "song": "Unholy Confessions",
+    "artist": "Avenged Sevenfold"
+  },
+  {
+    "song": "Bat Country",
+    "artist": "Avenged Sevenfold"
+  },
+  {
+    "song": "The Impression That I Get",
+    "artist": "The Mighty Mighty Bosstones"
+  },
+  {
+    "song": "One Headlight",
+    "artist": "The Wallflowers"
+  },
+  {
+    "song": "Your Love",
+    "artist": "The Outfield"
+  },
+  {
+    "song": "Inside Out",
+    "artist": "Eve 6"
+  },
+  {
+    "song": "Gimme Shelter",
+    "artist": "The Rolling Stones"
+  },
+  {
+    "song": "Already Gone",
+    "artist": "Eagles"
+  },
+  {
+    "song": "Can't You See",
+    "artist": "The Marshall Tucker Band"
+  },
+  {
+    "song": "Mono",
+    "artist": "Courtney Love"
+  },
+  {
+    "song": "Believe",
+    "artist": "Mumford & Sons"
+  },
+  {
+    "song": "All Falls Down (feat. Syleena Johnson)",
+    "artist": "Kanye West"
+  },
+  {
+    "song": "Blue On Black",
+    "artist": "Kenny Wayne Shepherd Band"
+  },
+  {
+    "song": "Doesn't Remind Me",
+    "artist": "Audioslave"
+  },
+  {
+    "song": "Girl",
+    "artist": "Beck"
+  },
+  {
+    "song": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses"
+  },
+  {
+    "song": "The Boys of Summer",
+    "artist": "The Ataris"
+  },
+  {
+    "song": "Trip Switch",
+    "artist": "Nothing But Thieves"
+  },
+  {
+    "song": "Low",
+    "artist": "Cracker"
+  },
+  {
+    "song": "The Walker",
+    "artist": "Fitz & The Tantrums"
+  },
+  {
+    "song": "Left Hand Free",
+    "artist": "Alt-J"
+  },
+  {
+    "song": "Gold on the Ceiling",
+    "artist": "The Black Keys"
+  },
+  {
+    "song": "Lonely Boy",
+    "artist": "The Black Keys"
+  },
+  {
+    "song": "Little Black Submarines",
+    "artist": "The Black Keys"
+  },
+  {
+    "song": "Doesn't Remind Me",
+    "artist": "Audioslave"
+  },
+  {
+    "song": "Girl",
+    "artist": "Beck"
+  },
+  {
+    "song": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses"
+  },
+  {
+    "song": "The Boys of Summer",
+    "artist": "The Ataris"
+  },
+  {
+    "song": "Trip Switch",
+    "artist": "Nothing But Thieves"
+  },
+  {
+    "song": "Low",
+    "artist": "Cracker"
+  },
+  {
+    "song": "The Walker",
+    "artist": "Fitz & The Tantrums"
+  },
+  {
+    "song": "Left Hand Free",
+    "artist": "Alt-J"
+  },
+  {
+    "song": "Gold on the Ceiling",
+    "artist": "The Black Keys"
+  },
+  {
+    "song": "Lonely Boy",
+    "artist": "The Black Keys"
+  },
+  {
+    "song": "Little Black Submarines",
+    "artist": "The Black Keys"
+  },
+  {
+    "song": "Lay Me Down (feat. Rome of Sublime with Rome)",
+    "artist": "Dirty Heads"
+  },
+  {
+    "song": "Come with Me Now",
+    "artist": "Kongos"
+  },
+  {
+    "song": "Heaven Knows",
+    "artist": "The Pretty Reckless"
+  },
+  {
+    "song": "Remedy",
+    "artist": "Seether"
+  },
+  {
+    "song": "Saturday Night Special",
+    "artist": "Lynyrd Skynyrd"
+  },
+  {
+    "song": "The Regulator",
+    "artist": "Clutch"
+  },
+  {
+    "song": "This Is How I Disappear",
+    "artist": "My Chemical Romance"
+  },
+  {
+    "song": "The Sharpest Lives",
+    "artist": "My Chemical Romance"
+  },
+  {
+    "song": "Teenagers",
+    "artist": "My Chemical Romance"
+  },
+  {
+    "song": "Disenchanted",
+    "artist": "My Chemical Romance"
+  },
+  {
+    "song": "Prayer Of The Refugee",
+    "artist": "Rise Against"
+  },
+  {
+    "song": "Cochise",
+    "artist": "Audioslave"
+  },
+  {
+    "song": "The Chemical Worker's Song (Process Man)",
+    "artist": "Great Big Sea"
+  },
+  {
+    "song": "Mother",
+    "artist": "Danzig"
+  },
+  {
+    "song": "Possum Kingdom",
+    "artist": "Toadies"
+  },
+  {
+    "song": "Fat Lip",
+    "artist": "Sum 41"
+  },
+  {
+    "song": "In Too Deep",
+    "artist": "Sum 41"
+  },
+  {
+    "song": "This Is How I Disappear",
+    "artist": "My Chemical Romance"
+  },
+  {
+    "song": "The Sharpest Lives",
+    "artist": "My Chemical Romance"
+  },
+  {
+    "song": "Teenagers",
+    "artist": "My Chemical Romance"
+  },
+  {
+    "song": "Disenchanted",
+    "artist": "My Chemical Romance"
+  },
+  {
+    "song": "Prayer Of The Refugee",
+    "artist": "Rise Against"
+  },
+  {
+    "song": "Cochise",
+    "artist": "Audioslave"
+  },
+  {
+    "song": "The Chemical Worker's Song (Process Man)",
+    "artist": "Great Big Sea"
+  },
+  {
+    "song": "Mother",
+    "artist": "Danzig"
+  },
+  {
+    "song": "Possum Kingdom",
+    "artist": "Toadies"
+  },
+  {
+    "song": "Fat Lip",
+    "artist": "Sum 41"
+  },
+  {
+    "song": "In Too Deep",
+    "artist": "Sum 41"
+  },
+  {
+    "song": "Beer Drinkers & Hell Raisers (2006 Remastered Version)",
+    "artist": "ZZ Top"
+  },
+  {
+    "song": "Be Aggressive",
+    "artist": "Faith No More"
+  },
+  {
+    "song": "Just Got Paid",
+    "artist": "ZZ Top"
+  },
+  {
+    "song": "Born In The U.S.A.",
+    "artist": "Bruce Springsteen"
+  },
+  {
+    "song": "Ocean Avenue",
+    "artist": "Yellowcard"
+  },
+  {
+    "song": "Hemorrhage (In My Hands)",
+    "artist": "Fuel"
+  },
+  {
+    "song": "Bittersweet",
+    "artist": "Fuel"
+  },
+  {
+    "song": "Far Behind",
+    "artist": "Candlebox"
+  },
+  {
+    "song": "Shine",
+    "artist": "Collective Soul"
+  },
+  {
+    "song": "Iris",
+    "artist": "Goo Goo Dolls"
+  },
+  {
+    "song": "Slide",
+    "artist": "Goo Goo Dolls"
+  },
+  {
+    "song": "Name",
+    "artist": "The Goo Goo Dolls"
+  },
+  {
+    "song": "How Far We've Come",
+    "artist": "Matchbox Twenty"
+  },
+  {
+    "song": "3AM",
+    "artist": "Matchbox Twenty"
+  },
+  {
+    "song": "Semi-Charmed Life",
+    "artist": "Third Eye Blind"
+  },
+  {
+    "song": "How You Remind Me",
+    "artist": "Nickelback"
+  },
+  {
+    "song": "Bleed It Out",
+    "artist": "Linkin Park"
+  },
+  {
+    "song": "Bittersweet",
+    "artist": "Fuel"
+  },
+  {
+    "song": "Far Behind",
+    "artist": "Candlebox"
+  },
+  {
+    "song": "Shine",
+    "artist": "Collective Soul"
+  },
+  {
+    "song": "Iris",
+    "artist": "Goo Goo Dolls"
+  },
+  {
+    "song": "Slide",
+    "artist": "Goo Goo Dolls"
+  },
+  {
+    "song": "Name",
+    "artist": "The Goo Goo Dolls"
+  },
+  {
+    "song": "How Far We've Come",
+    "artist": "Matchbox Twenty"
+  },
+  {
+    "song": "3AM",
+    "artist": "Matchbox Twenty"
+  },
+  {
+    "song": "Semi-Charmed Life",
+    "artist": "Third Eye Blind"
+  },
+  {
+    "song": "How You Remind Me",
+    "artist": "Nickelback"
+  },
+  {
+    "song": "Bleed It Out",
+    "artist": "Linkin Park"
+  },
+  {
+    "song": "Everlong",
+    "artist": "Foo Fighters"
+  },
+  {
+    "song": "Best of You",
+    "artist": "Foo Fighters"
+  },
+  {
+    "song": "All My Life",
+    "artist": "Foo Fighters"
+  },
+  {
+    "song": "Lump",
+    "artist": "The Presidents of the United States of America"
+  },
+  {
+    "song": "Paul Revere",
+    "artist": "Beastie Boys"
+  },
+  {
+    "song": "Jane Says",
+    "artist": "Jane's Addiction"
+  },
+  {
+    "song": "Closing Time",
+    "artist": "Semisonic"
+  },
+  {
+    "song": "1985",
+    "artist": "Bowling For Soup"
+  },
+  {
+    "song": "Almost",
+    "artist": "Bowling For Soup"
+  },
+  {
+    "song": "Sugar, We're Goin Down",
+    "artist": "Fall Out Boy"
+  },
+  {
+    "song": "Take It Away",
+    "artist": "The Used"
+  },
+  {
+    "song": "A Decade Under The Influence",
+    "artist": "Taking Back Sunday"
+  },
+  {
+    "song": "Vindicated",
+    "artist": "Dashboard Confessional"
+  },
+  {
+    "song": "The Quiet Things That No One Ever Knows",
+    "artist": "Brand New"
+  },
+  {
+    "song": "Sic Transit Gloria ... Glory Fades",
+    "artist": "Brand New"
+  },
+  {
+    "song": "Not Dark Yet",
+    "artist": "Bob Dylan"
+  },
+  {
+    "song": "My My, Hey Hey (Out of the Blue)",
+    "artist": "Neil Young & Crazy Horse"
+  },
+  {
+    "song": "Rockin` in the Free World",
+    "artist": "Neil Young"
+  }
+]
